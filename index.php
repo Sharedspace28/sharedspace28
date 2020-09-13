@@ -207,7 +207,7 @@ button:hover, a:hover {
         
       </nav > 
 </header>
-	  <div class="container">
+	  
       <div class="main_header__div d-flex align-items-start
         justify-content-center  flex-column shadow " style="width: 100%;margin-top:0; height: calc(100vh - 40vh); background-image:
          linear-gradient(to right, rgba(0, 0, 0, 0.5) 
@@ -234,7 +234,7 @@ button:hover, a:hover {
               </div>
                   
         </div>
-	</div>
+	
 <br>
 <br>
 <br>
@@ -586,7 +586,7 @@ Providing readers with good content according to your topic <br>
  <div class="container">
 <div class="col-xs-12">
 
-  <footer class="page-footer font-small footer btn-secondary" style="width:100% background-color: 48;">
+  <footer class="page-footer font-small footer btn-secondary" style="width:500px% background-color: 48;">
   <!-- Copyright -->
 
   <div class="footer-copyright text-center py-3">
