@@ -464,7 +464,7 @@ Hello to everybody who is reading I am khushi powar, 19 year old Girl who likes 
   </div>
   <div class="col-lg-2">
   <div class="card ">
-  <div class="card-header text-white bg-dark mb-3" style="max-width: 25rem;">
+  <div class="card-header text-white bg-dark mb-3" style="width: 100%;">
    <h2> Follow me </h2>
   </div>
   <div class="card-body">
@@ -585,7 +585,7 @@ Providing readers with good content according to your topic <br>
  
 <div class="col-xs-12">
 
-  <footer class="page-footer font-small footer btn-secondary" style=" background-color: 48;">
+  <footer class="page-footer font-small footer btn-secondary" style="width:100% background-color: 48;">
   <!-- Copyright -->
 
   <div class="footer-copyright text-center py-3">
