@@ -206,7 +206,8 @@ button:hover, a:hover {
  
         
       </nav > 
-</header>  
+</header>
+	  
       <div class="main_header__div d-flex align-items-start
         justify-content-center  flex-column shadow " style="width: 100%;margin-top:0; height: calc(100vh - 40vh); background-image:
          linear-gradient(to right, rgba(0, 0, 0, 0.5) 
