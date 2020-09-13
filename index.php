@@ -584,7 +584,7 @@ Providing readers with good content according to your topic <br>
   
 <!-- <?php  //foreach ($select_information as $key => $category): ?> -->
  
-<div class="col-sm-12">
+<div class="col-xs-12">
 
   <footer class="page-footer font-small footer btn-secondary" style=" background-color: 48;">
   <!-- Copyright -->
