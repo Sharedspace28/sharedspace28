@@ -283,7 +283,7 @@ button:hover, a:hover {
                               <div class="courses-thumb courses-thumb-secondary">
                                    <div class="courses-top">
                                         <div class="courses-image">
-                                        <a href="whatmatters.php" target="_blank"><img src="assets2/images/whatmatters.jpg" width="350"style="background: linear-gradient(to right, #202020, #101010);" class="img-responsive" alt="">
+                                        <a href="whatmatters.php" target="_blank"><img src="assets2/images/whatmatters.jpg" width="350" style="background: linear-gradient(to right, #202020, #101010);" class="img-responsive" alt="">
                                       </a>  
                                       </div>
                                         <div class="courses-date">
@@ -512,7 +512,7 @@ Providing readers with good content according to your topic <br>
   </div>
   <div class="col-lg-4">
   <!-- <h4 class="contact-tag-line"> FEEL FREE TO ASK US <br> WE ARE ALWAYS READY FOR YOUR HELP</h4> -->
-    <img src="assets2/images/content.png" height="300px" width="400px" alt="responsive">
+    <img src="assets2/images/content.png" height="300px" width="350px" alt="responsive">
   </div>
   <!-- <div class="col-lg-2">
   <div class="card ">
@@ -548,7 +548,7 @@ Providing readers with good content according to your topic <br>
 
   <div class="col-lg-4">
   <h4 class="contact-tag-line" style="font-weight: bold;color:black;"> FEEL FREE TO ASK US <br> WE ARE ALWAYS READY FOR YOUR HELP</h4>
-    <img src="assets2/images/contact.png" height="300px" width="400px" alt="responsive">
+    <img src="assets2/images/contact.png" height="300px" width="350px" alt="responsive">
   </div>
 
 <div class="col-lg-4">
