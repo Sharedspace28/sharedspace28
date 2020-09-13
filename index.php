@@ -207,6 +207,9 @@ button:hover, a:hover {
         
       </nav > 
 </header>
+	  <div class="container-fluid">
+		<div class="col-sm-12">
+
 	  
       <div class="main_header__div d-flex align-items-start
         justify-content-center  flex-column shadow " style="width: 100%;margin-top:0; height: calc(100vh - 40vh); background-image:
@@ -592,7 +595,8 @@ Providing readers with good content according to your topic <br>
   </div>
 
 </footer>
-
+	  </div>
+ </div>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
     <!-- Bootstrap core JavaScript -->
