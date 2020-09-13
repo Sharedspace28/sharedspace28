@@ -551,7 +551,7 @@ Providing readers with good content according to your topic <br>
 
   <div class="col-lg-4">
   <h4 class="contact-tag-line" style="font-weight: bold;color:black;"> FEEL FREE TO ASK US <br> WE ARE ALWAYS READY FOR YOUR HELP</h4>
-    <img src="assets2/images/contact.png" height="300px" width="500px" alt="responsive">
+    <img src="assets2/images/contact.png" height="300px" width="400px" alt="responsive">
   </div>
 
 <div class="col-lg-4">
